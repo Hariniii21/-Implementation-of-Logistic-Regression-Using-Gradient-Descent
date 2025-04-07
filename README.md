@@ -131,8 +131,6 @@ print(y_prednew)
 ### Y_prednew
 ![Screenshot 2025-03-25 182154](https://github.com/user-attachments/assets/cb38dbf3-e69e-4f70-885d-77dbe6648648)
 
-### Y_prednew
-
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
